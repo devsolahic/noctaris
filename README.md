@@ -9,9 +9,11 @@
 - **Elias de Jesus Miranda** – [elias.miranda@solahic.com.br](mailto:elias.miranda@solahic.com.br)  
   Faculdade Presbiteriana Gammon, Lavras-MG  
 
+### 👥 Orientador 
 - **Erasmo Evangelista de Oliveira** – [erasmo.oliveira@fagammon.edu.br](mailto:erasmo.oliveira@fagammon.edu.br)  
   Faculdade Presbiteriana Gammon, Lavras-MG  
 
+### 👥 Coorientadores
 - **Fernando Elias de Oliveira** – [fernando.oliveira@fagammon.edu.br](mailto:fernando.oliveira@fagammon.edu.br)  
   Faculdade Presbiteriana Gammon, Lavras-MG  
 
