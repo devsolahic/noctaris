@@ -4,7 +4,7 @@
 
 ---
 
-### 👥 Autores
+### 👥 Autor
 
 - **Elias de Jesus Miranda** – [elias.miranda@solahic.com.br](mailto:elias.miranda@solahic.com.br)  
   Faculdade Presbiteriana Gammon, Lavras-MG  
